@@ -1,6 +1,8 @@
 # TOPICS 
 
-1. Flow Chart 📉
+
+
+### 1. Flow Chart 📉
 - Flowcharts show the steps of a program in a simple way, making it easier to understand how it works.
 
 - They help find mistakes in the program by showing how each step connects, making it easier to fix errors.
@@ -15,7 +17,10 @@
 - [An introduction to Flowcharts](https://www.geeksforgeeks.org/an-introduction-to-flowcharts/)
 - [What is a Flowchart and its Types?](https://www.geeksforgeeks.org/what-is-a-flowchart-and-its-types/?ref=lbp)
 
-2. Psudeo Code 👨‍💻
+
+
+
+### 2. Psudeo Code 👨‍💻
 - Pseudocode explains the steps of a program using plain, simple language, making it easier to plan how the program will work.
 
 - It helps organize your ideas before writing the actual code, reducing mistakes during coding.
@@ -29,6 +34,9 @@
 ### Other Helpful articles 🔗
 - [What is PseudoCode: A Complete Tutorial](https://www.geeksforgeeks.org/what-is-pseudocode-a-complete-tutorial/?ref=ml_lbp)
 - [How to write a Pseudo Code?](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)
+
+
+--- 
 
 
 ## KEY DIFFERENCE 
