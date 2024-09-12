@@ -1,4 +1,4 @@
-# TOPICS 
+# 📃 TOPICS 
 
 
 
@@ -13,7 +13,7 @@
 
 - Flowcharts are useful for keeping a clear record of how a program works, which helps when making changes later.
 
-### Other Helpful articles 🔗
+### 🔗 Other Helpful articles 
 - [An introduction to Flowcharts](https://www.geeksforgeeks.org/an-introduction-to-flowcharts/)
 - [What is a Flowchart and its Types?](https://www.geeksforgeeks.org/what-is-a-flowchart-and-its-types/?ref=lbp)
 
@@ -31,7 +31,7 @@
 
 - Pseudocode acts as a guide when writing real code, making it quicker and easier to turn ideas into working programs.
 
-### Other Helpful articles 🔗
+### 🔗 Other Helpful articles 
 - [What is PseudoCode: A Complete Tutorial](https://www.geeksforgeeks.org/what-is-pseudocode-a-complete-tutorial/?ref=ml_lbp)
 - [How to write a Pseudo Code?](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)
 
@@ -39,7 +39,7 @@
 --- 
 
 
-## KEY DIFFERENCE 
+## 🔑 KEY DIFFERENCE 
 
 | FLOWCHART | PSEUDOCODE | 
 |-----------------------------------------|-----------------------------------------|
