@@ -35,3 +35,21 @@ To implement decision-making capabilities in code.
 
 
 # LOOPS 
+
+Loops are control flow statements that repeat a block of code until a specific condition is met. They help in automating repetitive tasks without needing to write code multiple times.
+
+### Types of Loops:
+1. **For Loop:** Repeats code for a set number of times, typically with a counter.
+2. **While Loop:** Repeats code as long as a given condition is true.
+3. **Do-While Loop:** Similar to a while loop, but the code runs at least once before checking the condition.
+
+
+### 🔗 Other Resources: 
+- [What are Loops in Programming?](https://www.geeksforgeeks.org/loops-programming/?#what-are-loops-in-programming)
+- [Types of Loops in Programming](https://www.geeksforgeeks.org/loops-programming/?#types-of-loops-in-programming)
+- [For loop](https://www.geeksforgeeks.org/loops-programming/#for-loop)
+- [While Loop](https://www.geeksforgeeks.org/loops-programming/#while-loop)
+- [Do-While Loop](https://www.geeksforgeeks.org/loops-programming/#dowhile-loop)
+- [Nested Loops](https://www.geeksforgeeks.org/loops-programming/#nested-loops)
+- [For Loop vs While Loop vs Do-While Loop in Programming](https://www.geeksforgeeks.org/loops-programming/#for-loop-vs-while-loop-vs-dowhile-loop-in-programming)
+- [Common mistakes to avoid in Programming](https://www.geeksforgeeks.org/loops-programming/#common-mistakes-to-avoid-in-programming)
