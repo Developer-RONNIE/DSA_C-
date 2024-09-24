@@ -13,3 +13,5 @@ Solve the following questions using common conditional statements (if-else)
 5. Write a program that determines whether a given character is an uppercase or lowercase letter. The program should take a single character as input and output whether the character is in uppercase or lowercase format [Solutions]()
 
 6. Write a program that checks a given number and prints whether it is positive or negative using Ternary Statements [Solutions]()
+
+7. Write a program that takes an integer input n and prints all the numbers from 1 to n [Solutions]()
