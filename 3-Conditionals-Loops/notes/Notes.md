@@ -27,6 +27,7 @@ To implement decision-making capabilities in code.
 - [Difference between If Else and Switch Case](https://www.geeksforgeeks.org/conditional-statements-in-programming/#difference-between-if-else-and-switch-case)
 - [Difference between Types of Conditional Statements in Programming](https://www.geeksforgeeks.org/conditional-statements-in-programming/#difference-between-types-of-conditional-statements-in-programming)
 - [Conditional Statements – FAQs](https://www.geeksforgeeks.org/conditional-statements-in-programming/#frequently-asked-questions-faqs-in-conditional-statements-in-programming)
+- [Ternary Statements](https://www.geeksforgeeks.org/ternary-operator-in-programming/)
 
 
 
