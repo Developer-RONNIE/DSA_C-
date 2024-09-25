@@ -16,7 +16,7 @@ int main () {
     }
 */
     // Solution 2 : ASCII Method  : [A-Z = 65-90]
-    if ( ch >= 65 && ch<= 90){
+    if ( ch >= 65 && ch<= 90){ //implicit type conversion 
         cout << "Uppercase char \n";
     }
     else {

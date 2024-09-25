@@ -17,3 +17,5 @@ Solve the following questions using common conditional statements (if-else)
 7. Write a program that takes an integer input n and prints all the numbers from 1 to n [Solutions]()
 
 8. Write a program that takes an integer input n and calculates the sum of all numbers from 1 to n using a loop. [Solutions]()
+
+9. Write a program that calculates the sum of all odd numbers from 1 to n using a loop. [Solutions]()
