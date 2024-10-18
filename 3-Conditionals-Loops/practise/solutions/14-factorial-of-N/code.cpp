@@ -3,16 +3,40 @@ using namespace std;
 
 int main() {
     int n;
-    cout << "Enter a number: \n";
+    long long factorial = 1;
+
+    // Taking input from the user
+    cout << "Enter a positive integer: ";
     cin >> n;
 
-    long long factorial = 1;
-    for (int i = 1; i <= n; i++) {
-        factorial *= i;
-        cout << factorial << endl;
+    // Checking for valid input
+    if (n < 0) {
+        cout << "Factorial is not defined for negative numbers!" << endl;
+        return 0;
     }
 
-    cout << "Factorial of " << n << " is: " << factorial << endl;
+    // Printing the multiplication steps and calculating the factorial
+    cout << n << "! = ";
+    for (int i = n; i > 0; i--) {
+        factorial *= i;
+        cout << i;
+        if (i > 1) {
+            cout << " * ";
+        }
+    }
+
+    // Output the final result
+    cout << " = " << factorial << endl;
 
     return 0;
 }
+
+
+/*
+
+Expected output : 
+
+Enter a positive integer: 10
+10! = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 = 3628800
+
+*/
