@@ -24,7 +24,7 @@ Solve the following questions using common conditional statements (if-else)
 
 11. Write a program to check if it's prime or not. [Solutions](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/tree/main/3-Conditionals-Loops/practise/solutions/11-prime-checker)
 
-12. Nested Loops - Print 5 stars in each 5 rows [Solutions](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/tree/main/3-Conditionals-Loops/practise/solutions/12-Nested-Loops)
+12. Nested Loops - Print m stars in each n rows [Solutions](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/tree/main/3-Conditionals-Loops/practise/solutions/12-Nested-Loops)
 
 13. Write a program which prints sum of all numbers from 1 to N which are divisible by 3. [Solutions](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/tree/main/3-Conditionals-Loops/practise/solutions/13-divisible-by)
 
