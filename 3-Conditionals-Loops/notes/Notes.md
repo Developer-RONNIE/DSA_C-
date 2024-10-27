@@ -53,3 +53,13 @@ Loops are control flow statements that repeat a block of code until a specific c
 - [Nested Loops](https://www.geeksforgeeks.org/loops-programming/#nested-loops)
 - [For Loop vs While Loop vs Do-While Loop in Programming](https://www.geeksforgeeks.org/loops-programming/#for-loop-vs-while-loop-vs-dowhile-loop-in-programming)
 - [Common mistakes to avoid in Programming](https://www.geeksforgeeks.org/loops-programming/#common-mistakes-to-avoid-in-programming)
+
+
+
+--- 
+
+
+# NESTED LOOPS 
+
+- A loop within a loop, where the inner loop iterates for each iteration of the outer loop.
+- Checkout [SYNTAX](https://www.geeksforgeeks.org/nested-loops-in-c-with-examples-2/)
