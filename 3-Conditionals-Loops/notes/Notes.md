@@ -1,4 +1,4 @@
-# CONDITIONAL STATEMENTS 
+# 1. CONDITIONAL STATEMENTS 💫
 
 ### Over View : 
 - Conditional statements are fundamental structures in programming.
@@ -34,7 +34,7 @@ To implement decision-making capabilities in code.
 --- 
 
 
-# LOOPS 
+# 2. LOOPS 🔁
 
 Loops are control flow statements that repeat a block of code until a specific condition is met. They help in automating repetitive tasks without needing to write code multiple times.
 
@@ -55,11 +55,7 @@ Loops are control flow statements that repeat a block of code until a specific c
 - [Common mistakes to avoid in Programming](https://www.geeksforgeeks.org/loops-programming/#common-mistakes-to-avoid-in-programming)
 
 
-
---- 
-
-
-# NESTED LOOPS 
+### NESTED LOOPS 
 
 - A loop within a loop, where the inner loop iterates for each iteration of the outer loop.
 - Checkout [SYNTAX](https://www.geeksforgeeks.org/nested-loops-in-c-with-examples-2/)
