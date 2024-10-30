@@ -17,12 +17,6 @@ Create a pattern
 
 ---
 
-2. Create a pattern [Solution]()
-
-If n = 3 
-
-***
-***
-***
+2. Create a square pattern with * if n = 3  [Solution]()
 
 --- 
