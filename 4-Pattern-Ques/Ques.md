@@ -56,9 +56,123 @@ G H I
 --- 
 
 
-6. Triangle Pattern [Solution]()
+6. Star-Triangle Pattern [Solution]()
 
 If n = 4 
 
 
 ---
+
+
+7. Num-Triangle Pattern [Solution]()
+
+if n = 5,
+Create a pattern 
+
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+
+
+--- 
+
+
+8. Char-Triangle Pattern [Solution]()
+
+if n = 6, 
+Create a pattern
+
+A 
+B B 
+C C C
+D D D D
+E E E E E
+F F F F F F
+
+
+---
+
+
+9. Num-Triangle Pattern 2 [Solution]()
+
+if n = 5,
+Create a pattern 
+
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+
+--- 
+
+
+10. Num-Triangle Pattern -backward [Solution]()
+
+if n = 5,
+Create a pattern 
+
+1
+2 1
+3 2 1
+4 3 2 1
+5 4 3 2 1
+
+
+
+---
+
+
+11. Floyd's Triangle Pattern [Solution]()
+
+If n = 4 
+Create a Pattern of 
+1
+2 3
+4 5 6
+7 8 9 10
+
+
+---
+
+
+12. Floyd's Triangle -Char Pattern 2 [Solution]()
+
+If n = 4 
+Create a Pattern of 
+A 
+B C 
+D E F 
+G H I J 
+
+
+---
+
+13. Inverted triangle pattern [Solution]()
+If n = 4 
+Create a Pattern of 
+
+1 1 1 1
+  2 2 2 
+    3 3 
+      4
+
+---
+
+
+14.  Pyramid pattern [Solution]()
+
+
+---
+
+
+15. Hollow Diamond Pattern [Solution]()
+
+
+---
+
+
+16. Butterly Pattern [Solution]()
