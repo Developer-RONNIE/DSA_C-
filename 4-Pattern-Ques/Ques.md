@@ -33,7 +33,7 @@ A B C D
 ---
 
 
-4. Carete a continous square pattern [Solution]()
+4. Create a continous square pattern [Solution]()
 
 if n=3
 
@@ -45,7 +45,7 @@ if n=3
 ---
 
 
-5. Carete a continous character square pattern [Solution]()
+5. Create a continous character square pattern [Solution]()
 
 if n=3
 
@@ -54,3 +54,11 @@ D E F
 G H I
 
 --- 
+
+
+6. Triangle Pattern [Solution]()
+
+If n = 4 
+
+
+---
