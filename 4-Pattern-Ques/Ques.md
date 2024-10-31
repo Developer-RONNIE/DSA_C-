@@ -21,7 +21,7 @@ Create a pattern
 
 --- 
 
-3. Create a square pattern with Chars [Solution]()
+3. Create a square pattern with Chars [Solution](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/4-Pattern-Ques/Solutions/03-char-square/code.cpp)
 
 if n = 4 
 
@@ -33,7 +33,7 @@ A B C D
 ---
 
 
-4. Create a continous square pattern [Solution]()
+4. Create a continous square pattern [Solution](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/4-Pattern-Ques/Solutions/04-continous-square/code.cpp)
 
 if n=3
 
@@ -45,7 +45,7 @@ if n=3
 ---
 
 
-5. Create a continous character square pattern [Solution]()
+5. Create a continous character square pattern [Solution](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/4-Pattern-Ques/Solutions/05-continous-char-square/code.cpp)
 
 if n=3
 
@@ -56,7 +56,7 @@ G H I
 --- 
 
 
-6. Star-Triangle Pattern [Solution]()
+6. Star-Triangle Pattern [Solution](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/4-Pattern-Ques/Solutions/06-triangle/code.cpp)
 
 If n = 4 
 
@@ -64,7 +64,7 @@ If n = 4
 ---
 
 
-7. Num-Triangle Pattern [Solution]()
+7. Num-Triangle Pattern [Solution](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/4-Pattern-Ques/Solutions/07-num-triangle/code.cpp)
 
 if n = 5,
 Create a pattern 
@@ -79,7 +79,7 @@ Create a pattern
 --- 
 
 
-8. Char-Triangle Pattern [Solution]()
+8. Char-Triangle Pattern [Solution](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/4-Pattern-Ques/Solutions/08-char-triangle/code.cpp)
 
 if n = 6, 
 Create a pattern
@@ -95,7 +95,7 @@ F F F F F F
 ---
 
 
-9. Num-Triangle Pattern 2 [Solution]()
+9. Num-Triangle Pattern 2 [Solution](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/4-Pattern-Ques/Solutions/09-num-triangle-2/code.cpp)
 
 if n = 5,
 Create a pattern 
@@ -110,7 +110,7 @@ Create a pattern
 --- 
 
 
-10. Num-Triangle Pattern -backward [Solution]()
+10. Num-Triangle Pattern -backward [Solution](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/4-Pattern-Ques/Solutions/10-num-triangle-backward/code.cpp)
 
 if n = 5,
 Create a pattern 
@@ -126,7 +126,7 @@ Create a pattern
 ---
 
 
-11. Floyd's Triangle Pattern [Solution]()
+11. Floyd's Triangle Pattern [Solution](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/4-Pattern-Ques/Solutions/11-Floyd-triangle/code.cpp)
 
 If n = 4 
 Create a Pattern of 
@@ -151,7 +151,7 @@ G H I J
 
 ---
 
-13. Inverted triangle pattern [Solution]()
+13. Inverted triangle pattern [Solution](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/4-Pattern-Ques/Solutions/13-Inverted-triangle/code.cpp)
 If n = 4 
 Create a Pattern of 
 
@@ -173,16 +173,25 @@ AAAA
    D
 
 
-15.  Pyramid pattern [Solution]()
+---
+
+
+15.  Pyramid pattern [Solution](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/4-Pattern-Ques/Solutions/15-Pyramid/code.cpp)
+If n = 4 
+Create a Pattern of 
+   1
+  121
+ 12321
+1234321
 
 
 ---
 
 
-16. Hollow Diamond Pattern [Solution]()
+16. Hollow Diamond Pattern, If n = 4  [Solution](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/4-Pattern-Ques/Solutions/16-hollow-diamond/code.cpp)
 
 
 ---
 
 
-17. Butterly Pattern [Solution]()
+17. Butterly Pattern, If n = 4 [Solution]()
