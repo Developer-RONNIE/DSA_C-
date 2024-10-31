@@ -155,24 +155,34 @@ G H I J
 If n = 4 
 Create a Pattern of 
 
-1 1 1 1
-  2 2 2 
-    3 3 
-      4
+1111
+ 222
+  33
+   4
 
 ---
 
 
-14.  Pyramid pattern [Solution]()
+14. Inverted triangle- char pattern 2 [Solution]()
+If n = 4 
+Create a Pattern of 
+
+AAAA
+ BBB
+  CC
+   D
+
+
+15.  Pyramid pattern [Solution]()
 
 
 ---
 
 
-15. Hollow Diamond Pattern [Solution]()
+16. Hollow Diamond Pattern [Solution]()
 
 
 ---
 
 
-16. Butterly Pattern [Solution]()
+17. Butterly Pattern [Solution]()
