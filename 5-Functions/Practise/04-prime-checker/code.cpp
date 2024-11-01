@@ -12,6 +12,7 @@ bool isPrime(int num) {
             return false;
         }
     }
+        // If we've checked all the numbers up to the square root and haven't found a divisor, the number is prime.
     return true;
 }
 
