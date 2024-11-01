@@ -12,6 +12,7 @@
 - Generally in C++ we store data in either stack / heap memory.
 - Static data is stored in stack whereas, dynamic data is stored in heap memory. 
 - Hence, Functions are stored in Stack. 
+- If any Primitive datatype is stored in a function then they are stored as pass by value.
 
 
 ### READ MORE 
