@@ -32,3 +32,11 @@ Read More :
 | 9 | 1001 | 19 | 10011 |
 | 10 | 1010 | 20 | 10100 |
 
+
+--- 
+
+## Code 
+
+- [Decimal to Binary Conversion]()
+- [Binary to Decimal OCnversin]()
+
