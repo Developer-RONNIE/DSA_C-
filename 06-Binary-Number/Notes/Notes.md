@@ -32,7 +32,14 @@ Read More :
 | 9 | 1001 | 19 | 10011 |
 | 10 | 1010 | 20 | 10100 |
 
+## Two's Compliment 
+There are three different ways to represent signed integer . 
+a: Signed bit
+b: [1’s Complement](https://www.geeksforgeeks.org/ones-complement/?ref=ml_lbp)
+c: [2’s Complement](https://www.geeksforgeeks.org/twos-complement/)
 
+
+Also Read MSB [Most significant Bit](https://en.wikipedia.org/wiki/Bit_numbering)
 --- 
 
 ## Code 
