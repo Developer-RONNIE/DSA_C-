@@ -44,6 +44,6 @@ Also Read MSB [Most significant Bit](https://en.wikipedia.org/wiki/Bit_numbering
 
 ## Code 
 
-- [Decimal to Binary Conversion]()
-- [Binary to Decimal OCnversin]()
+- [Decimal to Binary Conversion](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/06-Binary-Number/Practise/decimal-to-binary-conversion/code.cpp)
+- [Binary to Decimal OCnversin](https://github.com/Developer-RONNIE/DSA_C_Plus_Plus/blob/main/06-Binary-Number/Practise/binary-to-decimal-conversion/code.cpp)
 
