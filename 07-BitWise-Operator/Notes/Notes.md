@@ -101,3 +101,15 @@ Variables defined within a function or block are said to be local to those funct
 
 
 ## Data Type Modifiers
+
+A modifier is used to change the meaning of a basic type 
+so that it better matches the requirements of different circumstances.
+
+Following are the C++ data type modifiers:
+1. signed
+2. unsigned
+3. short
+4. long
+
+
+These modifiers can be used with the following Built-in Data Types. [Read more](https://www.geeksforgeeks.org/cpp-type-modifiers/)
