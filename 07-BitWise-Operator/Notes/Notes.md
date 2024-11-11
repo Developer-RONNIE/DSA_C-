@@ -66,18 +66,13 @@ For example, a = b = 4; assigns the value of b to a.
 | < <= > >= | Relational operators	| Left | 
 | == != | Equality operators | Left | 
 | & | Bitwise AND | Left | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-| | | | 
-
-
-
+| ^ | Bitwise XOR | Left | 
+| | | Bitwise OR | Left | 
+| && | Logical AND | Left | 
+| || | Logical OR | Left | 
+| ?: | Ternary conditional | Right | 
+| = += -= *= /= %= &= ^= |= <<= >>= | Assignment and compound assignment | Right | 
+| , | Comma | Left | 
 
 
 --- 
